@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ROSA - Robot Operating System Agent
+description: ROSA is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://robroyce.github.io/rosa.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  ROSA: https://github.com/nasa-jpl/rosa
