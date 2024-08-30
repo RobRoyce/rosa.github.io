@@ -1,8 +1,8 @@
-title: ROSA - Robot Operating System Agent
+title: ROSA - the ROS Agent
 description: ROSA is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 theme: just-the-docs
 
 url: https://robroyce.github.io/rosa.github.io
 
 aux_links:
-  ROSA: https://github.com/nasa-jpl/rosa
+  GitHub Repository: https://github.com/nasa-jpl/rosa
